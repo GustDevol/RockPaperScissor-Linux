@@ -16,7 +16,7 @@
   
   $ git clone https://github.com/GustDevol/RockPaperScissor-Linux.git
   
-  ( git can be installed from https://git-scm.com/download/linux )
+  [git](https://git-scm.com/download/linux) should be installed .
   
   After cloning open terminal at that directory and run the following command .
   
